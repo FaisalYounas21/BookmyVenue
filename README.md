@@ -33,7 +33,7 @@ The web application provides a streamlined approach for reserving football venue
 
 ## Hosting
 
-Used XAMPP Afor local hosting.
+Used XAMPP for local hosting.
 ## Version
 * V1.0 
     initial release.
