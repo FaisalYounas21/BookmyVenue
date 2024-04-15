@@ -10,6 +10,7 @@ The web application provides a streamlined approach for reserving football venue
 * ### PHP
 * ### Javascript
 * ### MySQL
+* ### XAMPP (Local Host)
 
 ## Demos, Screenshots and Example Output (LocalHost XAMPP)
 * ### Homepage
