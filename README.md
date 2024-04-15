@@ -19,17 +19,17 @@ The web application provides a streamlined approach for reserving football venue
 * ### Login
 ![Login](Demo/login.jpeg)
 * ### View available cities
-![Available cities](Demo/View cities.jpeg)
+![Available cities](Demo/View%20cities.jpeg)
 * ### Book Ground
-![Book Ground](Demo/Choose date and time.jpeg)
+![Book Ground](Demo/Choose%20date%20and%20time.jpeg)
 * ### Successfully Booked
 ![Successfully booked](Demo/Booked.jpeg)
 * ### Booking can be cancelled
-![Cancel Booking](Demo/cancel booking.PNG)
+![Cancel Booking](Demo/cancel%20booking.PNG)
 * ### Admin can add new venues 
-![Admin add new venue](Demo/Admin add new ground.jpeg)
+![Admin add new venue](Demo/Admin%20add%20new%20ground.jpeg)
 * ### New venue Added
-![New venue added](Demo/New ground added.jpeg)
+![New venue added](Demo/New%20ground%20added.jpeg)
 
 ## Hosting
 
