@@ -12,7 +12,25 @@ The web application provides a streamlined approach for reserving football venue
 * ### MySQL
 
 ## Demos, Screenshots and Example Output
+* ### Homepage
 ![Main Page](Demo/homepage.jpeg)
+* ### Register
+![Register](Demo/register.jpeg)
+* ### Login
+![Login](Demo/login.jpeg)
+* ### View available cities
+![Available cities](Demo/View cities.jpeg)
+* ### Book Ground
+![Book Ground](Demo/Choose date and time.jpeg)
+* ### Successfully Booked
+![Successfully booked](Demo/Booked.jpeg)
+* ### Booking can be cancelled
+![Cancel Booking](Demo/cancel booking.PNG)
+* ### Admin can add new venues 
+![Admin add new venue](Demo/Admin add new ground.jpeg)
+* ### New venue Added
+![New venue added](Demo/New ground added.jpeg)
+
 ## Hosting
 
 The web application is hosted on 
