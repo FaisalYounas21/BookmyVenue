@@ -6,7 +6,16 @@ The web application provides a streamlined approach for reserving football venue
 
 ## Technologies used
 * ### Bootstrap
-* ### Html/ Css
+* ### Html/ CSS
 * ### PHP
 * ### Javascript
 * ### MySQL
+
+## Demos, Screenshots and Example Output
+
+## Hosting
+
+The web application is hosted on 
+## Version
+* V1.0 
+    initial release.
