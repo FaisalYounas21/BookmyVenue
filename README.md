@@ -12,7 +12,7 @@ The web application provides a streamlined approach for reserving football venue
 * ### MySQL
 
 ## Demos, Screenshots and Example Output
-
+![Main Page](Demo/homepage.jpeg)
 ## Hosting
 
 The web application is hosted on 
